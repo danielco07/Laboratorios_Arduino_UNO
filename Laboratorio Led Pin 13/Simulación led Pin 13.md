@@ -1,6 +1,6 @@
 # Simulación Led pin 13
  
  
-- Simulador Tinkercad: https://www.tinkercad.com/things/86Z7XFj6u6s-laboratorio-1	
+- Simulador Tinkercad: https://www.tinkercad.com/things/bBlNJNkh1NQ/editel?sharecode=RwooqImQdCvK3ZhhZflJDE-EkF4NFSfd35rSxqbARbk
 - Simulador Velxio: https://velxio.dev/project/bbf8d5a4-5d37-499f-ba6a-881f2c1d1212
 - Simulador Wokwi: https://wokwi.com/projects/472726655979147265
