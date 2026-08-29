@@ -1,4 +1,4 @@
-Simulación Led pin 13:
+SIMULACIÓN LED PIN 13:
 
 Simulador Tinkercad: https://www.tinkercad.com/things/86Z7XFj6u6s-laboratorio-0
 
