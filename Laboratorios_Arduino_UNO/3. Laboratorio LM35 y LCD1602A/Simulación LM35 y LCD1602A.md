@@ -1,1 +1,7 @@
+SIMULACIÓN:
 
+Tinkerkard: 
+
+Velxio:
+
+Wokwi:
