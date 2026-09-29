@@ -8,7 +8,7 @@ Wokwi: https://wokwi.com/projects/473644537154058241
 
 SIMULACIÓN POTENCIOMETRO:
 
-Tinkerkad:
+Tinkerkad: https://www.tinkercad.com/things/0J04ojhrYNt/editel?sharecode=RSQvvDpQ4RFzWIuB030PWOawbR7KjosGxeUAzkuSkgM
 
 Velxio:
 
