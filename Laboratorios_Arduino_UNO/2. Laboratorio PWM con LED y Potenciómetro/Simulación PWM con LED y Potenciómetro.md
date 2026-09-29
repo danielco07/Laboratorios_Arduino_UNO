@@ -12,4 +12,4 @@ Tinkerkad: https://www.tinkercad.com/things/0J04ojhrYNt/editel?sharecode=RSQvvDp
 
 Velxio: https://velxio.dev/danielcogollo07/potenciometro-daniel-cogollo/
 
-Wokwi: 
+Wokwi: https://wokwi.com/projects/476456775159820289
