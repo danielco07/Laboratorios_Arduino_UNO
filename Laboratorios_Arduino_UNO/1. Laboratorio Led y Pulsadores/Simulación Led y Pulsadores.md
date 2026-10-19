@@ -1,6 +1,6 @@
 SIMULACIÓN:
 
-WOKWI: https://wokwi.com/projects/472826098515592193
+WOKWI: https://wokwi.com/projects/478327888265187329
 
 TINKERKAD: https://www.tinkercad.com/things/7RrleEqcboj-led-y-pulsadores
 
